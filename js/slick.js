@@ -35,7 +35,7 @@ $(".slick-slider").slick({
 });
 /* //상단 banner 슬라이더 */
 
-/* style pick */
+/* slick */
 $('.style_slider').slick({
   dots: true,
   arrows: true,
